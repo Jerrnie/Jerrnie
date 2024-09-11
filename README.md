@@ -2,7 +2,7 @@
 <br>I'm Jerrnie, a passionate developer with a unique blend of creativity and logic! 🎨💡  <br>I thrive on turning complex ideas into intuitive software and web solutions. Let's build something amazing together!
 
 # 🚀 Projects & Contributions  
-Many of my current projects are private repositories, so you may not see contributions here. However, I'm always working on new and exciting projects. Feel free to connect to learn more about my work! **Will Start to contribute/make public repositories**
+Many of my current projects are private repositories, so you may not see contributions here. However, I'm always working on new and exciting projects. Feel free to connect to learn more about my work! **( Will start to contribute/make public repositories! )**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrnie-pangilinan-2875a7199) 
