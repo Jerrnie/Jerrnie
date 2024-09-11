@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 About Me
 <br>I'm Jerrnie, a passionate developer with a unique blend of creativity and logic! 🎨💡  <br>I thrive on turning complex ideas into intuitive software and web solutions. Let's build something amazing together!
 
-### 🚀 **Projects & Contributions**  
+# 🚀 Projects & Contributions  
 Many of my current projects are private repositories, so you may not see contributions here. However, I'm always working on new and exciting projects. Feel free to connect to learn more about my work!
 
 ## 🌐 Socials:
